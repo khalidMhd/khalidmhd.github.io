@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.a3593b4a.chunk.css",
-    "main.js": "/static/js/main.6b0b56fb.chunk.js",
-    "main.js.map": "/static/js/main.6b0b56fb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9620e208.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9620e208.js.map",
+    "main.js": "/static/js/main.65b98976.chunk.js",
+    "main.js.map": "/static/js/main.65b98976.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6ff94924.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6ff94924.js.map",
     "static/css/2.cccce122.chunk.css": "/static/css/2.cccce122.chunk.css",
-    "static/js/2.5c976753.chunk.js": "/static/js/2.5c976753.chunk.js",
-    "static/js/2.5c976753.chunk.js.map": "/static/js/2.5c976753.chunk.js.map",
+    "static/js/2.d1840fdf.chunk.js": "/static/js/2.d1840fdf.chunk.js",
+    "static/js/2.d1840fdf.chunk.js.map": "/static/js/2.d1840fdf.chunk.js.map",
     "static/css/3.3a26ebde.chunk.css": "/static/css/3.3a26ebde.chunk.css",
-    "static/js/3.d8db1935.chunk.js": "/static/js/3.d8db1935.chunk.js",
-    "static/js/3.d8db1935.chunk.js.map": "/static/js/3.d8db1935.chunk.js.map",
+    "static/js/3.bc1b909e.chunk.js": "/static/js/3.bc1b909e.chunk.js",
+    "static/js/3.bc1b909e.chunk.js.map": "/static/js/3.bc1b909e.chunk.js.map",
     "static/css/4.ee2a0142.chunk.css": "/static/css/4.ee2a0142.chunk.css",
-    "static/js/4.a3bb072c.chunk.js": "/static/js/4.a3bb072c.chunk.js",
-    "static/js/4.a3bb072c.chunk.js.map": "/static/js/4.a3bb072c.chunk.js.map",
+    "static/js/4.0905cce9.chunk.js": "/static/js/4.0905cce9.chunk.js",
+    "static/js/4.0905cce9.chunk.js.map": "/static/js/4.0905cce9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.61e8cdbe7c47c92a81b9321dfa23c8ef.js": "/precache-manifest.61e8cdbe7c47c92a81b9321dfa23c8ef.js",
+    "precache-manifest.c6ffb98fdcd17158a37d0778eadc036e.js": "/precache-manifest.c6ffb98fdcd17158a37d0778eadc036e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.cccce122.chunk.css.map": "/static/css/2.cccce122.chunk.css.map",
     "static/css/3.3a26ebde.chunk.css.map": "/static/css/3.3a26ebde.chunk.css.map",
@@ -23,6 +23,7 @@
     "static/css/main.a3593b4a.chunk.css.map": "/static/css/main.a3593b4a.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/FYP.png": "/static/media/FYP.a09586a4.png",
+    "static/media/NLC.png": "/static/media/NLC.d3f0ee13.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/api.png": "/static/media/api.4fd2b125.png",
     "static/media/asp.png": "/static/media/asp.988aae14.png",
@@ -48,6 +49,7 @@
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/opaq.png": "/static/media/opaq.4e9e76f3.png",
     "static/media/pas.png": "/static/media/pas.47618765.png",
     "static/media/password.PNG": "/static/media/password.38148980.PNG",
     "static/media/polio.PNG": "/static/media/polio.12696f6c.PNG",
@@ -63,10 +65,10 @@
     "static/media/vechile.png": "/static/media/vechile.67c5039d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9620e208.js",
+    "static/js/runtime-main.6ff94924.js",
     "static/css/2.cccce122.chunk.css",
-    "static/js/2.5c976753.chunk.js",
+    "static/js/2.d1840fdf.chunk.js",
     "static/css/main.a3593b4a.chunk.css",
-    "static/js/main.6b0b56fb.chunk.js"
+    "static/js/main.65b98976.chunk.js"
   ]
 }
